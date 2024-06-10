@@ -24,3 +24,8 @@ El objetivo de este script es recoger datos de mi tiktok y guardarlos (actualmen
         - Sensacion general de las personas en los comentarios relacionado con las tematicas de los videos.
         
     
+
+## Contact
+
+Lleir Garcia
+lleirgarcia@gmail.com
